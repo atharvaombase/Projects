@@ -1,0 +1,30 @@
+/* .todo-container h1 {
+ 
+} */
+
+.TodoItems {
+  text-align: left;
+}
+
+input {
+  width: 100%;
+  height: 100%;
+}
+
+.myrow {
+  margin: 10px 5px;
+}
+
+.mybutton {
+  width: 70px;
+}
+
+.custom {
+  justify-content: start;
+}
+
+.col-2 {
+  display: flex;
+  /* Use flexbox */
+  justify-content: flex-start;
+}

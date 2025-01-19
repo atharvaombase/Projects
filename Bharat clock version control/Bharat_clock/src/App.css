@@ -1,0 +1,19 @@
+.Main-container {
+  text-align: center;
+}
+
+h1 {
+  font-weight: 700;
+  margin: 40px;
+  font-size: 60px;
+}
+
+.Slogan {
+  font-weight: 900;
+  font-size: 30px;
+}
+
+.Time {
+  font-weight: 500;
+  font-size: 20px;
+}
